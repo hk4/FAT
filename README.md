@@ -1,6 +1,6 @@
 # FUSE FAT
 
-This repo implements a simplified FAT filesystem for CS 333: Storage Systems - Williams College.
+This repo implements a simplified FAT filesystem, using Linux FUSE (libfuse) as an interface.
 
 ## Compiling, Running and Testing
 
